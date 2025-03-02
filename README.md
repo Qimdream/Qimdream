@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Qimdream/Qimdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,60 +11,52 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+js,css,html,ts,react,nodejs,py,rust,aws,docker,java
 -->
-# Hello World！
-# Hi there 👋 I'm [Qimdream]
+<!-- 动态横幅 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Qimdream;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-🌟 **Passionate Developer | Open Source Enthusiast | Tech Explorer**
+<!-- 动态统计卡片 -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qimdream&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimdream&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/{username}?style=social)](https://github.com/{username})
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id={username}.{username})](https://github.com/{username})
-[![GitHub Stars](https://img.shields.io/github/stars/{username}?style=social)](https://github.com/{username})
+<!-- 动态技能进度条 -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,html,css,javascript,c,mysql" />
+</div>
 
----
+<!-- 动态活动图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qimdream&theme=react-dark&hide_border=true&area=true" />
+</div>
 
-### 🛠️ Tech Stack
+<!-- 实时访客计数 -->
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Qimdream.Qimdream" /> 
+</div>
 
-💻 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+<!-- 动态社交媒体 -->
+<h2 align="center">📫 Connect with me</h2>
+<div align="center">
+  <a href=" https://b23.tv/Nv324gV">
+    <img src="https://img.shields.io/badge/哔哩哔哩-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href=" https://b23.tv/Nv324gV">
+    <img src="https://img.shields.io/badge/电子邮件-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 
-🌐 **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+<!-- 动态博客文章 -->
+<h2 align="center">✍️ Latest Blog Posts</h2>
+<!-- 需要配置GitHub Actions更新下方内容 -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-🔧 **Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### [Project 1](https://github.com/{username}/project1)
-📝 Short description + ![Stars](https://img.shields.io/github/stars/{username}/project1?style=flat)
-🔧 Built with: `Tech Stack`
-
-#### [Project 2](https://github.com/{username}/project2)
-📝 Short description + ![Last Commit](https://img.shields.io/github/last-commit/{username}/project2)
-
----
-
-### 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user={username})](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📫 How to reach me
-
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
----
-
-⭐ From [@{Qimdream}](https://github.com/{Qimdream})
+<!-- 动态GitHub贡献蛇 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Qimdream/Qimdream/output/github-contribution-grid-snake-dark.svg" />
+</div>
